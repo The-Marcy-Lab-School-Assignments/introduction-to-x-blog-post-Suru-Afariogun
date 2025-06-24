@@ -69,7 +69,6 @@ function loudGreet(callback, name) {
 
 console.log(loudGreet(greet, 'Suru')); // output = "HELLO, SURU"
 ```
-````
 
 In real projects, we often use H.O.Fs like `map`, `forEach`, and `filter` to work with arrays.
 
@@ -197,3 +196,4 @@ console.log(loggedIn ? 'Welcome back!' : 'Please log in.');
 Understanding H.O.Fs and conditionals is a game-changer for JavaScript developers. They make your code more flexible, readable, and powerful — especially when you're working with frameworks like React or Express.
 
 Whether you're mapping over data or branching your app's logic, these tools give you real control over behavior. Master these, and you'll be building smarter code in no time!
+````
