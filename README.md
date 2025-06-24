@@ -28,7 +28,10 @@ By [your name]
 
 ---
 
-````markdown
+```markdown
+
+```
+
 # Introduction to Higher-Order Functions and Conditionals for Programmers
 
 ## Introduction
@@ -196,4 +199,3 @@ console.log(loggedIn ? 'Welcome back!' : 'Please log in.');
 Understanding H.O.Fs and conditionals is a game-changer for JavaScript developers. They make your code more flexible, readable, and powerful — especially when you're working with frameworks like React or Express.
 
 Whether you're mapping over data or branching your app's logic, these tools give you real control over behavior. Master these, and you'll be building smarter code in no time!
-````
